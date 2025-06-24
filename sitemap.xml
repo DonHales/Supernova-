@@ -1,44 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset 
-  xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 
-                      https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.supernovatacoma.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
-
   <url>
     <loc>https://www.supernovatacoma.com/barber-services</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://www.supernovatacoma.com/salon-services</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
-
   <url>
     <loc>https://www.supernovatacoma.com/book-now</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://www.supernovatacoma.com/blog</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
-
-  <url>
-    <loc>https://www.supernovatacoma.com/blog-feed.xml</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-
 </urlset>
